@@ -7,6 +7,7 @@ class TabletScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       backgroundColor: Colors.blue,
+      body: Text("TABLET SECTION UNDER WORK"),
     );
   }
 }

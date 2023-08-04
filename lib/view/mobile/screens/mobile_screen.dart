@@ -7,6 +7,7 @@ class MobileScrren extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       backgroundColor: Colors.green,
+      body: Text("MOBILE SECTION UNDER WORK"),
     );
   }
 }
