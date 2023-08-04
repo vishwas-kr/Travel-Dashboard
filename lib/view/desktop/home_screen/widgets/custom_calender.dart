@@ -4,8 +4,10 @@ import 'package:table_calendar/table_calendar.dart';
 import '../../../../utils/app_colors.dart';
 
 class CustomCalendar extends StatefulWidget {
+  const CustomCalendar({super.key});
+
   @override
-  _CustomCalendarState createState() => _CustomCalendarState();
+  State<CustomCalendar> createState() => _CustomCalendarState();
 }
 
 class _CustomCalendarState extends State<CustomCalendar> {

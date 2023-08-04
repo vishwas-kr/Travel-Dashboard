@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:table_calendar/table_calendar.dart';
 import 'package:ternav_icons/ternav_icons.dart';
 import 'package:travel_dashboard/view/desktop/home_screen/widgets/custom_calender.dart';
 import 'package:travel_dashboard/view/desktop/home_screen/widgets/schedule_widget.dart';
@@ -77,7 +76,7 @@ class LastContainer extends StatelessWidget {
                 ),
               ),
               //const Spacer(),
-              CustomCalendar(),
+              const CustomCalendar(),
               //const Spacer(),
               const ScheduleWidget()
             ],
