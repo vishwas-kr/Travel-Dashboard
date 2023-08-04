@@ -1,6 +1,13 @@
-# travel_dashboard
+# Travel DashBoard UI
+<img src="assets/ss/s1.png">
+A traveling dashboard built using Flutter that provides various features and information related to travel, all within a single app.
+<br>
 
-A new Flutter project.
+UI Inspiration:  -[Dribbble](https://dribbble.com/shots/16082616-Travigo-Travel-Dashboard) 
+
+## Comming Soon:
+- Mobile Version
+- Tablet Version
 
 ## Getting Started
 
